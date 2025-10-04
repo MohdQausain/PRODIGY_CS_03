@@ -1,6 +1,3 @@
-Perfect 👌 Here’s a **README.md** you can include with your Chrome Password Checker Extension project:
-
----
 
 ```markdown
 # 🔐 Password Strength Checker - Chrome Extension
@@ -80,7 +77,3 @@ chrome://extensions/
 ## 📜 License
 This project is open-source and free to use.  
 ```
-
----
-
-👉 Do you want me to also **create a ready-to-use screenshot mockup** of the extension popup UI (with your password checker design) so you can include it under the *Preview* section?
