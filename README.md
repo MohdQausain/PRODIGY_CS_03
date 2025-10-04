@@ -31,17 +31,20 @@ It instantly evaluates your password and tells you whether it's **Strong** or **
 
 ## 📸 Screenshots
 
-### 1. Extension Icon in Chrome
-<img width="352" alt="Extension Icon" src="https://github.com/user-attachments/assets/53c2747c-7f17-4d35-bd45-f6a0c76bdb5a" />
+### 1. Chrome Page View
+<img width="1919" height="1078" alt="Screenshot 2025-10-04 233833" src="https://github.com/user-attachments/assets/4472cc4c-4df5-4a27-be99-b775e70bc385" />
 
 ### 2. Enter Password
-<img width="358" alt="Enter Password" src="https://github.com/user-attachments/assets/758a1afb-985e-41e3-9aae-ff86af8c47b4" />
+<img width="618" height="384" alt="Screenshot 2025-10-04 233939" src="https://github.com/user-attachments/assets/92785a04-3020-469f-b05b-cf0225a9a053" />
 
 ### 3. Strong Password Example
-<img width="394" alt="Strong Password" src="https://github.com/user-attachments/assets/d6c37b1b-4d27-425c-8aa4-11540c9e4b1e" />
+<img width="545" height="381" alt="Screenshot 2025-10-04 233945" src="https://github.com/user-attachments/assets/88c5cd1e-7e26-41b7-883a-f771ce068278" />
 
 ### 4. Weak Password Example
-<img width="326" alt="Weak Password" src="https://github.com/user-attachments/assets/818f28aa-19e6-49c4-a0ac-530dfabedae9" />
+<img width="563" height="338" alt="Screenshot 2025-10-04 234322" src="https://github.com/user-attachments/assets/a70982f9-8bd2-4198-8453-d8d419a24d7f" />
+
+### 4. Weak Password Example Error
+<img width="538" height="361" alt="Screenshot 2025-10-04 233850" src="https://github.com/user-attachments/assets/3f0b6206-80b6-4398-b60b-8ff20418df9a" />
 
 ---
 
