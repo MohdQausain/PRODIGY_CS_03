@@ -1,5 +1,3 @@
-
-```markdown
 # 🔐 Password Strength Checker - Chrome Extension
 
 A simple and lightweight Chrome extension to check password strength and estimate how long it might take to crack.  
