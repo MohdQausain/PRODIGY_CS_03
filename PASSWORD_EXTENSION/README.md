@@ -1,14 +1,13 @@
 # 🔐 Password Strength Checker - Chrome Extension
 
-A simple and lightweight Chrome extension to check password strength and estimate how long it might take to crack.  
+A simple and lightweight Chrome extension to check password strength offline.  
 It analyzes length, uppercase, lowercase, numbers, and special characters, giving real-time feedback.
 
 ---
 
 ## 🚀 Features
 - ✅ Checks password strength (Weak / Strong).  
-- ✅ Suggests missing requirements (uppercase, digit, etc.).  
-- ✅ Estimates password crack time (seconds → years).  
+- ✅ Suggests missing requirements (uppercase, digit, etc.).    
 - ✅ Clean and modern popup UI.  
 - ✅ Works completely offline.  
 
